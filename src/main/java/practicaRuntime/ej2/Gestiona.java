@@ -1,4 +1,4 @@
-package ej2;
+package practicaRuntime.ej2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

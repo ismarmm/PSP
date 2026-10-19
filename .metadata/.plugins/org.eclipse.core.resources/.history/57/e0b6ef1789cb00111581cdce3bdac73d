@@ -1,0 +1,21 @@
+
+import java.io.File;
+import java.io.IOException;
+
+public static void main(String[] args) {
+		File rutaPrograma = new File("C:\\Users\\mmarf\\Desktop\\DAM2\\psp\\psp26_27\\01-Unidad1\\src\\main\\resources\\pythonEjecutableEjemplo.py");
+		ProcessBuilder p = new ProcessBuilder("python", rutaPrograma.getAbsolutePath());
+		p.inheritIO();
+		try {
+			Process proceso = p.start();
+
+		} catch (IOException e) {
+
+			e.printStackTrace();
+
+		}
+
+		
+
+	}
+

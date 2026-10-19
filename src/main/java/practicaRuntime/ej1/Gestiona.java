@@ -1,4 +1,4 @@
-package ej1;
+package practicaRuntime.ej1;
 
 import java.io.IOException;
 
@@ -8,7 +8,6 @@ public class Gestiona {
         String ruta = "C:\\Users\\Desktop\\Chrome.exe";
         String url = "https://www.google.com";
         Process proceso;
-
         try {
             proceso = rt.exec(ruta + " " + url);
         } catch (IOException e) {
