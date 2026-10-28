@@ -1,0 +1,21 @@
+ABRIR ESTE WORKSPACE
+
+1. Descomprime el ZIP completo.
+2. Al iniciar Eclipse, selecciona como Workspace la carpeta PSP_workspace (la que contiene PSP y .metadata).
+3. Pulsa Launch. El proyecto PSP ya está registrado: no hay que importarlo.
+
+No selecciones la subcarpeta PSP: esa es el proyecto, no el workspace.
+Si quieres utilizar tu ruta anterior, conserva antes una copia de esa carpeta y coloca allí el contenido de PSP_workspace, incluida .metadata. No mezcles los metadatos antiguos con los nuevos.
+
+CONTENIDO
+Un solo proyecto Maven PSP. Java en src/main/java; datos, imágenes, scripts y recursos en src/main/resources; otros archivos originales y configuraciones antiguas en src/archivos_originales.
+Las carpetas repetidas psp26_27 y src/main/java se han comparado archivo a archivo y unificado cuando son idénticas. No hay proyectos REPO/SRC.
+130 entradas Java originales se corresponden con 79 archivos Java: 51 eran copias idénticas. El inventario permite localizar cada archivo original.
+Se ajustaron paquetes e imports para reunir los ejercicios en un proyecto sin colisiones y algunas rutas asociadas a la nueva ubicación. En los dos LanzadorGeneradorHacienda se añadió un constructor que declara IOException para corregir un error de compilación previo.
+
+COMPROBACIONES
+Los 79 archivos Java compilan con Java 17 mediante el compilador Eclipse. Los archivos de trabajo no Java conservan su contenido.
+El workspace se generó con el motor de Eclipse y se comprobó que reconoce un único proyecto abierto.
+No se han ejecutado todos los ejercicios: varios conservan referencias previas a rutas de otros equipos o a archivos que no están en el RAR.
+Se necesita Eclipse con soporte Java y Maven y un JDK 17 o posterior. Maven puede necesitar conexión para descargar las dependencias.
+El RAR original conserva el historial Git y la configuración/caché del workspace anterior; no se mezclan con este workspace nuevo.

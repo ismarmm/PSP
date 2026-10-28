@@ -1,0 +1,1550 @@
+[
+  {
+    "original": ".project",
+    "destino": "src/archivos_originales/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "80228a44202c6820b9a0a212ec42f06680221c6feed4ec7adbddf3d8b50fd110"
+  },
+  {
+    "original": "25.txt",
+    "destino": "src/archivos_originales/25.txt",
+    "duplicado_identico": false,
+    "sha256_original": "5ce82032790e9e1b7f3c3370d8e5be4e3e0feea64a43aa8215b00882ac217d7c"
+  },
+  {
+    "original": "pom.xml",
+    "destino": "src/archivos_originales/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "f53a14a72b743d74c6c1d653c267732c24def4328d2815df20748f65323c589c"
+  },
+  {
+    "original": ".gitignore",
+    "destino": "src/archivos_originales/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "f9a2be62d9475b6ad6dbf702a33ff9227338b4c4fcd262c793f8a0840eca9af1"
+  },
+  {
+    "original": "SE/.project",
+    "destino": "src/archivos_originales/SE/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "ff5a7339687584b8ee1cdccc9ecd74618a9a1a63376c96e210df8f5dde633458"
+  },
+  {
+    "original": "SE/pom.xml",
+    "destino": "src/archivos_originales/SE/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "3e3f0de960fff9d41aa4b7a618521a663c41658824793e8ad0d2bf12555700d1"
+  },
+  {
+    "original": "SE/.classpath",
+    "destino": "src/archivos_originales/SE/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "logs/application-20261001.log",
+    "destino": "src/archivos_originales/logs/application-20261001.log",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "logs/application-20260928.log",
+    "destino": "src/archivos_originales/logs/application-20260928.log",
+    "duplicado_identico": false,
+    "sha256_original": "c1c9efe63ae9010949d85b42ea36bb67881cd3b681286861ada06cec1deaf45a"
+  },
+  {
+    "original": "logs/application-20261019.log",
+    "destino": "src/archivos_originales/logs/application-20261019.log",
+    "duplicado_identico": false,
+    "sha256_original": "35980d003549799c9c988d6260474c2883a91e15c53f8c3c9c5926893307b63b"
+  },
+  {
+    "original": "SE/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/SE/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "SE/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/SE/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "SE/src/main/resources/datos.txt",
+    "destino": "src/main/resources/SE/datos.txt",
+    "duplicado_identico": false,
+    "sha256_original": "1e5f70136ae8e993776be84aad4285b61c7a358dbaafdf205f1c198f54724876"
+  },
+  {
+    "original": "SE/src/main/java/GeneraNSSFichero.java",
+    "destino": "src/main/java/SE/GeneraNSSFichero.java",
+    "duplicado_identico": false,
+    "sha256_original": "28848220dedcd9ef340355d2757de276588c3d780d8cd48ba5eaffab9f4a6a5c"
+  },
+  {
+    "original": "SE/src/main/java/GeneradorHacienda.java",
+    "destino": "src/main/java/SE/GeneradorHacienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "7873bd10e3543d77e0a7a23e3246b2abe2e17e647402c90a0e71e9ffcbdab194"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/.project",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "3c0c5558aae8d69d364eb913f63a3fd164fc319f1675e2bef7e8b27de3ab0160"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/pom.xml.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "edd0a10c37faa8bf796a09504106576e907ce6464b5905bda550cac6528010d9"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.classpath.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.gitignore",
+    "duplicado_identico": true,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "30d6eb25b2b16a85ad9d3076d9afbe80865df1f00cd4e83a5ccc0a310aca0fb2"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/pom.xml.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "5a3ff8c702b4cda90156971cbcde5e2617aed7a736271c237a2ed98580e7dd9b"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.classpath.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.gitignore",
+    "duplicado_identico": true,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/.project",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "9db26ce47330b64c1fe1f8fff5ddc586dcde8fff18ef3f80782508be0c8ba4b2"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin1/Ejercicio1.java",
+    "destino": "src/main/java/Unidad1/Boletin1/Ejercicio1.java",
+    "duplicado_identico": true,
+    "sha256_original": "4831925cc0950128b8a15c4b7a57a1a580eeef0c430e6d16b7f7766ef842ab29"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin1/Ejercicio3.java",
+    "destino": "src/main/java/Unidad1/Boletin1/Ejercicio3.java",
+    "duplicado_identico": true,
+    "sha256_original": "64b08b053b9df1c66cabde95ad82fd4cc3f8ba65d2a4c2dc2a36da6ec748aba2"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Ejemplos/LanzaComandosJava.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/LanzaComandosJava.java",
+    "duplicado_identico": true,
+    "sha256_original": "1d18373dc93354c11d8d293bd359de16e4ca967326f889af840a12bbcf97bad5"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Ejemplos/JavaConArgumentos.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/JavaConArgumentos.java",
+    "duplicado_identico": true,
+    "sha256_original": "8e97754c1acac0d514a3c405639f731272e41a048d2717a3290f3b714a65afbe"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Ejemplos/LanzadorEjecutaClase.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/LanzadorEjecutaClase.java",
+    "duplicado_identico": true,
+    "sha256_original": "a7954bf1a3e47a8ac5ff82c5f77ffd1e1ec44be69f5180bb4d694f441899fa89"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Ejemplos/EjecutarProgramaPython.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/EjecutarProgramaPython.java",
+    "duplicado_identico": true,
+    "sha256_original": "0d3e4f3bad5c41555bc839294e37eee2e0565b2034247b7f0980acfec42feac1"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin2/Ejercicio15_CalculaMultiplicacion.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_CalculaMultiplicacion.java",
+    "duplicado_identico": true,
+    "sha256_original": "d47b92b90ebd2533c321b7c66ae6b4dfe81fda6db38ab94fc3ca6ee7d19a6d5d"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin2/Ejercicio15_Lanzador.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_Lanzador.java",
+    "duplicado_identico": true,
+    "sha256_original": "32eba9917bca1829053f7c8868fc5be02ba9d10268253940669521c36200474c"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin2/Ejercicio13_CalculaSuma.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio13_CalculaSuma.java",
+    "duplicado_identico": true,
+    "sha256_original": "b7205ea80c3473b137180da89df914479c571170f3a2ae73f4f8578b70aaa4f1"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin2/Ejercicio13_LanzadorCalculaSuma.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio13_LanzadorCalculaSuma.java",
+    "duplicado_identico": true,
+    "sha256_original": "fff437d8d35f3b4e2c47abff82ba297c4f3063e69dee711e9af32cb90385d4b7"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin2/Ejercicio15_CalculaMultiplicacionJAR.jar",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_CalculaMultiplicacionJAR.jar",
+    "duplicado_identico": true,
+    "sha256_original": "c64e22e01f66447f935b0d89b085b68902482675ff31478d1cc35db0f80cc434"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/EstudioEnCasa/Estudio1_HijaSum.java",
+    "destino": "src/main/java/Unidad1/EstudioEnCasa/Estudio1_HijaSum.java",
+    "duplicado_identico": true,
+    "sha256_original": "381f77c96dd2ec84c3820c7388a0e45e73d0bed15147a2c516eaaa053c8ba671"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/EstudioEnCasa/Estudio1_LanzadorSuma.java",
+    "destino": "src/main/java/Unidad1/EstudioEnCasa/Estudio1_LanzadorSuma.java",
+    "duplicado_identico": true,
+    "sha256_original": "da87cf5227bdf8467eb2d5b285b67e0f9b81292a88e982e2e01e69c173685bbe"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin3/Ejercicio2_AnalizadorTemperaturas.java",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_AnalizadorTemperaturas.java",
+    "duplicado_identico": true,
+    "sha256_original": "03aa4f5269fe10060e3d537effd2d7f3121eaf16df1cf101c27afc91259810c9"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin3/Ejercicio2_Temperaturas.txt",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_Temperaturas.txt",
+    "duplicado_identico": true,
+    "sha256_original": "6c88fb005690572b2e8df88614d5ed026c618206760f552b1143d8e9f60f9165"
+  },
+  {
+    "original": "psp26_27/01-Unidad1/src/main/java/Boletin3/Ejercicio2_LanzadorAnalisisTemperaturas.java",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_LanzadorAnalisisTemperaturas.java",
+    "duplicado_identico": true,
+    "sha256_original": "403af4456fc0763fc44a7758394cddd4ba9767461102b977af5b21842a3d60c2"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "26b8cedfaf5434c3a0f9d2670363ae3d93cdd6ecc6bc1091210d370c9efd88a0"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/pom.xml.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "a699542067634acafae836cfeb271741c3e0eee0ef8d3f6b8dae33e1e5b97816"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.classpath.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.gitignore",
+    "duplicado_identico": true,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Jaén.txt",
+    "destino": "src/main/resources/Amazon/Jaén.txt",
+    "duplicado_identico": true,
+    "sha256_original": "6da33cad56c5fd47ad84bb84b9982dc3b152cf69f1a063b651de4424077853f2"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/pedidos.txt",
+    "destino": "src/main/resources/Amazon/pedidos.txt",
+    "duplicado_identico": true,
+    "sha256_original": "d98387250657d469caf79f67f6938b932442a877dff80e3f7c3f16e19bc24a08"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/CÃ¡diz.txt",
+    "destino": "src/main/resources/Amazon/CÃ¡diz.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/CÃ³rdoba.txt",
+    "destino": "src/main/resources/Amazon/CÃ³rdoba.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Granada.txt",
+    "destino": "src/main/resources/Amazon/Granada.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0beaf0281c94f6374c85f07ea5a175fb49deb8a0394a541ecf66140408b9c2"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/MÃ¡laga.txt",
+    "destino": "src/main/resources/Amazon/MÃ¡laga.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/AlmerÃ­a.txt",
+    "destino": "src/main/resources/Amazon/AlmerÃ­a.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Cádiz.txt",
+    "destino": "src/main/resources/Amazon/Cádiz.txt",
+    "duplicado_identico": true,
+    "sha256_original": "a05307ead3b678836428733c43c80446015fb0404f74449f1cdec6512584dfc1"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Sevilla.txt",
+    "destino": "src/main/resources/Amazon/Sevilla.txt",
+    "duplicado_identico": true,
+    "sha256_original": "0c1060df0841b8dba64c67ac0ee4c6eeeb029f5e7b68acb64be16855e3cd1a53"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Córdoba.txt",
+    "destino": "src/main/resources/Amazon/Córdoba.txt",
+    "duplicado_identico": true,
+    "sha256_original": "c421b4e55b1d29feec89569105ef62222bb68f64fe928c953200f90511a58dde"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Huelva.txt",
+    "destino": "src/main/resources/Amazon/Huelva.txt",
+    "duplicado_identico": true,
+    "sha256_original": "93448caccb26a2baebe74d81693223f9ffaea64470905bf2d4e87ddb2c09cb24"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Málaga.txt",
+    "destino": "src/main/resources/Amazon/Málaga.txt",
+    "duplicado_identico": true,
+    "sha256_original": "826e6ef2c295c7ff892d611499677435f241e70f524ff190919eafd40f88206d"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/JaÃ©n.txt",
+    "destino": "src/main/resources/Amazon/JaÃ©n.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/resources/Almería.txt",
+    "destino": "src/main/resources/Amazon/Almería.txt",
+    "duplicado_identico": true,
+    "sha256_original": "e331546c8a395f539325db9b7298629d8ddc9908cceeec8581a44251f8e87a28"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/java/FiltrarPorProvincia.java",
+    "destino": "src/main/java/Amazon/FiltrarPorProvincia.java",
+    "duplicado_identico": true,
+    "sha256_original": "8b43aaa2abc619c677f0e0438a5c6c657b1b2572d2ba6d851f5e601046ca29e0"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/src/main/java/LanzadorFiltrarPorProvincia.java",
+    "destino": "src/main/java/Amazon/LanzadorFiltrarPorProvincia.java",
+    "duplicado_identico": true,
+    "sha256_original": "594dd0ebbade8d6bc3b8c0581f6eb67fdcae9868871abfa7b452e58e0e63a5b6"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/src/main/resources/NSSs.txt",
+    "destino": "src/main/resources/SimulacionAmazon/NSSs.txt",
+    "duplicado_identico": true,
+    "sha256_original": "c3ee725e446cecc33986a0863a4a6683b4ef7e51047ef046d44de4deb1a5a4f1"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/src/main/resources/Prueba.png",
+    "destino": "src/main/resources/SimulacionAmazon/Prueba.png",
+    "duplicado_identico": true,
+    "sha256_original": "1510cd769047b5a0e5a897a8f7afcafe6e8b666d497443c82d0ec5ed7e23fb65"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/src/main/resources/datos.txt",
+    "destino": "src/main/resources/SimulacionAmazon/datos.txt",
+    "duplicado_identico": true,
+    "sha256_original": "7c44a057b4a5f14423fcbb3cb71e9b44c5dadcf97eaaf43b38f225350622d178"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/src/main/java/GeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionAmazon/GeneradorHacienda.java",
+    "duplicado_identico": true,
+    "sha256_original": "b610ef1a330a6dd48a55d4e11c3ad48b73c815c04412b6465ec0afa2edc622d3"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenAmazon/Simulacion/src/main/java/LanzadorGeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionAmazon/LanzadorGeneradorHacienda.java",
+    "duplicado_identico": true,
+    "sha256_original": "bbc1f913e96c131da1dc63377c8782d8b1c660055791bd946645dc9697e282f4"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/.project",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "b6b2db947abf6fb9d42d646d5852c338becd99d234341217607092212a4df4e9"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/pom.xml.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "f3b985da90cb24e2267e24aacb4bf4f9080729636a2228ae6a5d926a1eea9164"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/.classpath",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.classpath.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.gitignore",
+    "duplicado_identico": true,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/application-20260928.log",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/application-20260928.log",
+    "duplicado_identico": true,
+    "sha256_original": "ef82ac762c16bad05516a9d038f2d8d0abd5b24d0ff7bdffccfb962d2d9f8f36"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/resources/log4j2.xml",
+    "destino": "src/main/resources/RepasoJava/log4j2.xml",
+    "duplicado_identico": true,
+    "sha256_original": "ef190c59cc03e0659e67e1e705ecdf2554ff93c349b64562703e4e9db9b07fef"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Repositorio/RepositorioEventos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Repositorio/RepositorioEventos.java",
+    "duplicado_identico": true,
+    "sha256_original": "c2a0cb3095c5e2b97f32b53fd53f06a02b88c4b327a78a1d03253db10458694b"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Controlador/GestionaaEventos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Controlador/GestionaaEventos.java",
+    "duplicado_identico": true,
+    "sha256_original": "4f2786ecaac4819ade9360a9784d0cf18543ca4ad9a946729cc86b8c646c1fcd"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Estado.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Estado.java",
+    "duplicado_identico": true,
+    "sha256_original": "7c06e88136989e3897bcd5ea0ba99c152006c21926fd1a586a074b4f32b5d2d8"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Concierto.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Concierto.java",
+    "duplicado_identico": true,
+    "sha256_original": "b24047eda87b20c6196691a5ede98fbbe0b62083e64909e78ee4d0070f9bb22c"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/eventosDesportivos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/eventosDesportivos.java",
+    "duplicado_identico": true,
+    "sha256_original": "6a359b59efb5768355b64cc236ac5fd7b11b38dfd0b32fc70da6946295196d1b"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Evento.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Evento.java",
+    "duplicado_identico": true,
+    "sha256_original": "4f42b7263ac1bede115bb75b7b71eca2285d5ed1ca4d383f7115cf0b25f1f480"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Exception/CrafterException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Exception/CrafterException.java",
+    "duplicado_identico": true,
+    "sha256_original": "4ee1bc30dc26b9dceb090eb6c6ded6101b48b68a6ca4278ffa88810cedfd2079"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Repositorio/RepoSinLuz.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Repositorio/RepoSinLuz.java",
+    "duplicado_identico": true,
+    "sha256_original": "4affb3cd221cb3b781afe8e6a9418284dde64ec80e1675266ce1a7d4feb6a1f3"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Controlador/GestionaEldenRing.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Controlador/GestionaEldenRing.java",
+    "duplicado_identico": true,
+    "sha256_original": "ad8e73a904a11f2d76bd29650c099e2488e9fac1d056e7f53da7396d05f38e68"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Modelo/Encuentro.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Modelo/Encuentro.java",
+    "duplicado_identico": true,
+    "sha256_original": "624e0cc27bb099c7c761dfa091dfc2fb22b9439aef4b6dff40a424e474a3d377"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Modelo/SinLuz.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Modelo/SinLuz.java",
+    "duplicado_identico": true,
+    "sha256_original": "1cbb2d2aa8be2e643c53ff7b40c6ff43f164a5bd290c932f4fa96b75a1864778"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Exception/EldenException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Exception/EldenException.java",
+    "duplicado_identico": true,
+    "sha256_original": "e2e9b3f6cc12eaa8fbf26396a524765805dfe38293aab3bb795df46d0d6d34d2"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Excepciones/ConversacionException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Excepciones/ConversacionException.java",
+    "duplicado_identico": true,
+    "sha256_original": "b2c425cf046d32dd15fe7ece663b9ddd9c729d3e8e569f67c429b973faf605bb"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Repositorio/RepositorioConversaciones.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Repositorio/RepositorioConversaciones.java",
+    "duplicado_identico": true,
+    "sha256_original": "5db570870e30444532b3bf360e8ea573ce7d9df715e49cc2c148a95fa6587298"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Controlador/GestionaPeticionesAChat.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Controlador/GestionaPeticionesAChat.java",
+    "duplicado_identico": true,
+    "sha256_original": "a93be5d7018bc1a15a9aa6eb8fe18abd392242d98ab46a669082c167064d6c2e"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/TipoAgente.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/TipoAgente.java",
+    "duplicado_identico": true,
+    "sha256_original": "7f9bc071c8f1aa84af24b3ee9d506fd37a2332ac62e9b0be40972110a26a7c38"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/Conversacion.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/Conversacion.java",
+    "duplicado_identico": true,
+    "sha256_original": "c4e5a7ffef6fac47994b11dd34737ba07ed72b5a178140586103b444adb6f293"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/ServicioConversacionesImpl.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/ServicioConversacionesImpl.java",
+    "duplicado_identico": true,
+    "sha256_original": "ff2f1d67aa2f3c97f3853d74492b9a575f967e970bfbeceab617edd3c375eea1"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Repositorio/NotificadorRepo.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Repositorio/NotificadorRepo.java",
+    "duplicado_identico": true,
+    "sha256_original": "1d424f180d146654b7b604e9822a9a19f50452996b627d2cf4dcdca009e2cf1f"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Repositorio/PedidoRepositorio.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Repositorio/PedidoRepositorio.java",
+    "duplicado_identico": true,
+    "sha256_original": "4efee0af72123b4a018315a022ecb81464fb8dfc36aa62b9f099859dfc6f0db8"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Servicio/TiendaService.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Servicio/TiendaService.java",
+    "duplicado_identico": true,
+    "sha256_original": "53a9fee12c72ddc35ced73d18ef4a1bf829a18cea570fa22e233b2ce5ec2fba2"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Controlador/GestionaTienda.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Controlador/GestionaTienda.java",
+    "duplicado_identico": true,
+    "sha256_original": "2c8c675df29d622f473fb31f7fa2b452381049c58822fd09b323761677ed6e3e"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Cliente.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Cliente.java",
+    "duplicado_identico": true,
+    "sha256_original": "9e66adb6f8b1ff2c0746da29d3326017d09db1414dfdeca5dfbe5aceaa377703"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/EstadoPedido.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/EstadoPedido.java",
+    "duplicado_identico": true,
+    "sha256_original": "60f5c26df40e541fa04dd273261968f05db931829c84b68f9287347f89d3206a"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Pedido.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Pedido.java",
+    "duplicado_identico": true,
+    "sha256_original": "32767e9de1819fcf5e5a2e87670416bc2d0860eb95d3f20f0e2a2505c0e40d09"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Notificador.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Notificador.java",
+    "duplicado_identico": true,
+    "sha256_original": "1fe1588af8cebdd67c6a525359cce79e25272aea1491c20641337ca67b128a04"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/EnviadorEmail.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/EnviadorEmail.java",
+    "duplicado_identico": true,
+    "sha256_original": "5ac861ddfbcf9b56f88ca466df7b168d3a97e73cdf16ef108f5ce3a6d6a88bde"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/INotificadorRepo.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/INotificadorRepo.java",
+    "duplicado_identico": true,
+    "sha256_original": "8b142f53289793ad481094588f51869a0e9661473ed7445057a9d055889ceb8d"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/EnviadorSms.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/EnviadorSms.java",
+    "duplicado_identico": true,
+    "sha256_original": "31058ca7f05c41959804e1ae10e481bcecc367cc454d08e18b0ca16cf0d78ab6"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/NotificadorEmail.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/NotificadorEmail.java",
+    "duplicado_identico": true,
+    "sha256_original": "bd19a1d9a11054187d620a39d29f2e85c4768d33b072444582b99d46e1508b12"
+  },
+  {
+    "original": "psp26_27/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/NotificadorSms.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/NotificadorSms.java",
+    "duplicado_identico": true,
+    "sha256_original": "010f2ca5f0b85043b91af243ca9873f50949f3a3582ed10083c0a34a055f78b4"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.project.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "26b8cedfaf5434c3a0f9d2670363ae3d93cdd6ecc6bc1091210d370c9efd88a0"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/pom.xml.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "a699542067634acafae836cfeb271741c3e0eee0ef8d3f6b8dae33e1e5b97816"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.classpath.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.gitignore",
+    "duplicado_identico": true,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": true,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/NSSs.txt",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/NSSs.txt",
+    "duplicado_identico": true,
+    "sha256_original": "c3ee725e446cecc33986a0863a4a6683b4ef7e51047ef046d44de4deb1a5a4f1"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/Prueba.png",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/Prueba.png",
+    "duplicado_identico": true,
+    "sha256_original": "1510cd769047b5a0e5a897a8f7afcafe6e8b666d497443c82d0ec5ed7e23fb65"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/datos.txt",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/datos.txt",
+    "duplicado_identico": true,
+    "sha256_original": "7c44a057b4a5f14423fcbb3cb71e9b44c5dadcf97eaaf43b38f225350622d178"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/java/GeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionSeguridadSocial/GeneradorHacienda.java",
+    "duplicado_identico": true,
+    "sha256_original": "b610ef1a330a6dd48a55d4e11c3ad48b73c815c04412b6465ec0afa2edc622d3"
+  },
+  {
+    "original": "psp26_27/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/java/LanzadorGeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionSeguridadSocial/LanzadorGeneradorHacienda.java",
+    "duplicado_identico": true,
+    "sha256_original": "bbc1f913e96c131da1dc63377c8782d8b1c660055791bd946645dc9697e282f4"
+  },
+  {
+    "original": "src/main/resources/25.txt",
+    "destino": "src/main/resources/25.txt",
+    "duplicado_identico": false,
+    "sha256_original": "2a1ad0c2b30913da3cc63c99dde6c8df50e94d9fb87274ffa1bdd1e59504d00d"
+  },
+  {
+    "original": "src/main/resources/texto_servicio_hilo_proceso_multihilo_concurrencia.txt",
+    "destino": "src/main/resources/texto_servicio_hilo_proceso_multihilo_concurrencia.txt",
+    "duplicado_identico": false,
+    "sha256_original": "c311918df2de881142454ae7f35260f55f2d0c05ce0af9522f47f74d7f110f9f"
+  },
+  {
+    "original": "src/main/resources/a.py",
+    "destino": "src/main/resources/a.py",
+    "duplicado_identico": false,
+    "sha256_original": "c2781dffe0cb4bf22f562a82ef4837ea8fb3252f102a9f4ea21259e7fcf04fc9"
+  },
+  {
+    "original": "src/main/resources/log4j2.xml",
+    "destino": "src/main/resources/log4j2.xml",
+    "duplicado_identico": false,
+    "sha256_original": "516c77f2ddddb39d7b8d04bcd0440d158edfdb4dbbe026206fc1353b11ed28a9"
+  },
+  {
+    "original": "src/main/resources/datos.txt",
+    "destino": "src/main/resources/datos.txt",
+    "duplicado_identico": false,
+    "sha256_original": "6c88fb005690572b2e8df88614d5ed026c618206760f552b1143d8e9f60f9165"
+  },
+  {
+    "original": "src/main/java/Boletin2runtinme/ProcesadorFichero.java",
+    "destino": "src/main/java/Boletin2runtinme/ProcesadorFichero.java",
+    "duplicado_identico": false,
+    "sha256_original": "6140bd73cc5cfb861670e4d5d1a81b501e7ee8415aff325fdc12628df240e46a"
+  },
+  {
+    "original": "src/main/java/Boletin2runtinme/LanzadorContadoresPalabras.java",
+    "destino": "src/main/java/Boletin2runtinme/LanzadorContadoresPalabras.java",
+    "duplicado_identico": false,
+    "sha256_original": "d2e128a79f86279923537c949ffaf7f11d1fa5ae80a7313919639ba07dd3fa20"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/.project",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "3c0c5558aae8d69d364eb913f63a3fd164fc319f1675e2bef7e8b27de3ab0160"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "edd0a10c37faa8bf796a09504106576e907ce6464b5905bda550cac6528010d9"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "src/main/java/Tienda/Estado.java",
+    "destino": "src/main/java/Tienda/Estado.java",
+    "duplicado_identico": false,
+    "sha256_original": "c6bf6f98c27a78e2c0d4cf455c3b4edb546e23f31ac796cc7a5d7286d17cad27"
+  },
+  {
+    "original": "src/main/java/Temperaturas/LanzadorAnalizadorTemperaturas.java",
+    "destino": "src/main/java/Temperaturas/LanzadorAnalizadorTemperaturas.java",
+    "duplicado_identico": false,
+    "sha256_original": "502d130c3ffd82c458676944f2790e1f995d15bbc98f58f140b5cc3b230db817"
+  },
+  {
+    "original": "src/main/java/Temperaturas/AnalizadorTemperaturas.java",
+    "destino": "src/main/java/Temperaturas/AnalizadorTemperaturas.java",
+    "duplicado_identico": false,
+    "sha256_original": "1a7f8a320eb6de6a04cbf0a82b8a8a0b75b734447c7f39d4625d9891b0e78744"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "30d6eb25b2b16a85ad9d3076d9afbe80865df1f00cd4e83a5ccc0a310aca0fb2"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "5a3ff8c702b4cda90156971cbcde5e2617aed7a736271c237a2ed98580e7dd9b"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/.project",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "9db26ce47330b64c1fe1f8fff5ddc586dcde8fff18ef3f80782508be0c8ba4b2"
+  },
+  {
+    "original": "src/main/java/Sumas/LanzadorCalculaSuma.java",
+    "destino": "src/main/java/Sumas/LanzadorCalculaSuma.java",
+    "duplicado_identico": false,
+    "sha256_original": "69b73f36a018b8c97efe92ee1d5b87f839404105183b6a0f4a5f35f28214f0a9"
+  },
+  {
+    "original": "src/main/java/Sumas/CalculaSuma.java",
+    "destino": "src/main/java/Sumas/CalculaSuma.java",
+    "duplicado_identico": false,
+    "sha256_original": "00a1c3ffe2a3a4caf58e40ee61ada8bf233a98317abe5c0c0c46f1dd82de87fb"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/ej3python.java",
+    "destino": "src/main/java/practicaRuntime/ej3python.java",
+    "duplicado_identico": false,
+    "sha256_original": "118a5066c6f41416c396f867e8248c81b857d7bd2aa684a48e5dc1a0f86e1105"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/probat.java",
+    "destino": "src/main/java/practicaRuntime/probat.java",
+    "duplicado_identico": false,
+    "sha256_original": "4729ee62f1f19f62aab867cc1cfdabefe5f41a2c40042af0a1292e254c4ff251"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-Unidad1/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin1/Ejercicio1.java",
+    "destino": "src/main/java/Unidad1/Boletin1/Ejercicio1.java",
+    "duplicado_identico": false,
+    "sha256_original": "4831925cc0950128b8a15c4b7a57a1a580eeef0c430e6d16b7f7766ef842ab29"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin1/Ejercicio3.java",
+    "destino": "src/main/java/Unidad1/Boletin1/Ejercicio3.java",
+    "duplicado_identico": false,
+    "sha256_original": "64b08b053b9df1c66cabde95ad82fd4cc3f8ba65d2a4c2dc2a36da6ec748aba2"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Ejemplos/LanzaComandosJava.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/LanzaComandosJava.java",
+    "duplicado_identico": false,
+    "sha256_original": "1d18373dc93354c11d8d293bd359de16e4ca967326f889af840a12bbcf97bad5"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Ejemplos/JavaConArgumentos.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/JavaConArgumentos.java",
+    "duplicado_identico": false,
+    "sha256_original": "8e97754c1acac0d514a3c405639f731272e41a048d2717a3290f3b714a65afbe"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Ejemplos/LanzadorEjecutaClase.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/LanzadorEjecutaClase.java",
+    "duplicado_identico": false,
+    "sha256_original": "a7954bf1a3e47a8ac5ff82c5f77ffd1e1ec44be69f5180bb4d694f441899fa89"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Ejemplos/EjecutarProgramaPython.java",
+    "destino": "src/main/java/Unidad1/Ejemplos/EjecutarProgramaPython.java",
+    "duplicado_identico": false,
+    "sha256_original": "0d3e4f3bad5c41555bc839294e37eee2e0565b2034247b7f0980acfec42feac1"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin2/Ejercicio15_CalculaMultiplicacion.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_CalculaMultiplicacion.java",
+    "duplicado_identico": false,
+    "sha256_original": "d47b92b90ebd2533c321b7c66ae6b4dfe81fda6db38ab94fc3ca6ee7d19a6d5d"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin2/Ejercicio15_Lanzador.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_Lanzador.java",
+    "duplicado_identico": false,
+    "sha256_original": "32eba9917bca1829053f7c8868fc5be02ba9d10268253940669521c36200474c"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin2/Ejercicio13_CalculaSuma.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio13_CalculaSuma.java",
+    "duplicado_identico": false,
+    "sha256_original": "b7205ea80c3473b137180da89df914479c571170f3a2ae73f4f8578b70aaa4f1"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin2/Ejercicio13_LanzadorCalculaSuma.java",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio13_LanzadorCalculaSuma.java",
+    "duplicado_identico": false,
+    "sha256_original": "fff437d8d35f3b4e2c47abff82ba297c4f3063e69dee711e9af32cb90385d4b7"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin2/Ejercicio15_CalculaMultiplicacionJAR.jar",
+    "destino": "src/main/java/Unidad1/Boletin2/Ejercicio15_CalculaMultiplicacionJAR.jar",
+    "duplicado_identico": false,
+    "sha256_original": "c64e22e01f66447f935b0d89b085b68902482675ff31478d1cc35db0f80cc434"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/EstudioEnCasa/Estudio1_HijaSum.java",
+    "destino": "src/main/java/Unidad1/EstudioEnCasa/Estudio1_HijaSum.java",
+    "duplicado_identico": false,
+    "sha256_original": "381f77c96dd2ec84c3820c7388a0e45e73d0bed15147a2c516eaaa053c8ba671"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/EstudioEnCasa/Estudio1_LanzadorSuma.java",
+    "destino": "src/main/java/Unidad1/EstudioEnCasa/Estudio1_LanzadorSuma.java",
+    "duplicado_identico": false,
+    "sha256_original": "da87cf5227bdf8467eb2d5b285b67e0f9b81292a88e982e2e01e69c173685bbe"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin3/Ejercicio2_AnalizadorTemperaturas.java",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_AnalizadorTemperaturas.java",
+    "duplicado_identico": false,
+    "sha256_original": "03aa4f5269fe10060e3d537effd2d7f3121eaf16df1cf101c27afc91259810c9"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin3/Ejercicio2_Temperaturas.txt",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_Temperaturas.txt",
+    "duplicado_identico": false,
+    "sha256_original": "6c88fb005690572b2e8df88614d5ed026c618206760f552b1143d8e9f60f9165"
+  },
+  {
+    "original": "src/main/java/01-Unidad1/src/main/java/Boletin3/Ejercicio2_LanzadorAnalisisTemperaturas.java",
+    "destino": "src/main/java/Unidad1/Boletin3/Ejercicio2_LanzadorAnalisisTemperaturas.java",
+    "duplicado_identico": false,
+    "sha256_original": "403af4456fc0763fc44a7758394cddd4ba9767461102b977af5b21842a3d60c2"
+  },
+  {
+    "original": "src/main/java/Tienda/Servicios/PedidoServicios.java",
+    "destino": "src/main/java/Tienda/Servicios/PedidoServicios.java",
+    "duplicado_identico": false,
+    "sha256_original": "1d313be27c3ab2f9f6c10f626551cde66435ac2e2800e749d5be7709b2592da3"
+  },
+  {
+    "original": "src/main/java/Tienda/Modelo/Cliente.java",
+    "destino": "src/main/java/Tienda/Modelo/Cliente.java",
+    "duplicado_identico": false,
+    "sha256_original": "d4080ff6687c3207f9b53edc80526521b4083e8a0e2b121388e7368f58c6112b"
+  },
+  {
+    "original": "src/main/java/Tienda/Modelo/Pedido.java",
+    "destino": "src/main/java/Tienda/Modelo/Pedido.java",
+    "duplicado_identico": false,
+    "sha256_original": "93a8aaf8c2aaf357eb8833e24b2b43389e42a917acd9fc6a39a970e4ef7af34b"
+  },
+  {
+    "original": "src/main/java/EldenRingMapas/exceptions/EldenException.java",
+    "destino": "src/main/java/EldenRingMapas/exceptions/EldenException.java",
+    "duplicado_identico": false,
+    "sha256_original": "88e9b78672626c5a76d4163027666a9837dd5dedc6acfc95bcb6b9edb3812b0a"
+  },
+  {
+    "original": "src/main/java/EldenRingMapas/modelo/RegistroEncuentros.java",
+    "destino": "src/main/java/EldenRingMapas/modelo/RegistroEncuentros.java",
+    "duplicado_identico": false,
+    "sha256_original": "1c066aa612398c6484f4326e765ebded096a74df6c3afb157daa439a00c096e3"
+  },
+  {
+    "original": "src/main/java/EldenRingMapas/modelo/Encuentro.java",
+    "destino": "src/main/java/EldenRingMapas/modelo/Encuentro.java",
+    "duplicado_identico": false,
+    "sha256_original": "1d2509ff3b7c44dd7046b55641b647ddd6ed51e106d85cc7c7589aa44f1340fe"
+  },
+  {
+    "original": "src/main/java/EldenRingMapas/modelo/SinLuz.java",
+    "destino": "src/main/java/EldenRingMapas/modelo/SinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "7e32782aacca6bb03ac79292c46e00cc530c1f8e111e42e3430468ac6161fd0b"
+  },
+  {
+    "original": "src/main/java/EldenRingMapas/controlador/GestionaEncuentrosSinLuz.java",
+    "destino": "src/main/java/EldenRingMapas/controlador/GestionaEncuentrosSinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "9bb14c500dbc38d646328382713a9cb8fa5b544b8c39134e938ccbd790dfacab"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "26b8cedfaf5434c3a0f9d2670363ae3d93cdd6ecc6bc1091210d370c9efd88a0"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "a699542067634acafae836cfeb271741c3e0eee0ef8d3f6b8dae33e1e5b97816"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Jaén.txt",
+    "destino": "src/main/resources/Amazon/Jaén.txt",
+    "duplicado_identico": false,
+    "sha256_original": "6da33cad56c5fd47ad84bb84b9982dc3b152cf69f1a063b651de4424077853f2"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/pedidos.txt",
+    "destino": "src/main/resources/Amazon/pedidos.txt",
+    "duplicado_identico": false,
+    "sha256_original": "d98387250657d469caf79f67f6938b932442a877dff80e3f7c3f16e19bc24a08"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/CÃ¡diz.txt",
+    "destino": "src/main/resources/Amazon/CÃ¡diz.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/CÃ³rdoba.txt",
+    "destino": "src/main/resources/Amazon/CÃ³rdoba.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Granada.txt",
+    "destino": "src/main/resources/Amazon/Granada.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0beaf0281c94f6374c85f07ea5a175fb49deb8a0394a541ecf66140408b9c2"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/MÃ¡laga.txt",
+    "destino": "src/main/resources/Amazon/MÃ¡laga.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/AlmerÃ­a.txt",
+    "destino": "src/main/resources/Amazon/AlmerÃ­a.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Cádiz.txt",
+    "destino": "src/main/resources/Amazon/Cádiz.txt",
+    "duplicado_identico": false,
+    "sha256_original": "a05307ead3b678836428733c43c80446015fb0404f74449f1cdec6512584dfc1"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Sevilla.txt",
+    "destino": "src/main/resources/Amazon/Sevilla.txt",
+    "duplicado_identico": false,
+    "sha256_original": "0c1060df0841b8dba64c67ac0ee4c6eeeb029f5e7b68acb64be16855e3cd1a53"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Córdoba.txt",
+    "destino": "src/main/resources/Amazon/Córdoba.txt",
+    "duplicado_identico": false,
+    "sha256_original": "c421b4e55b1d29feec89569105ef62222bb68f64fe928c953200f90511a58dde"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Huelva.txt",
+    "destino": "src/main/resources/Amazon/Huelva.txt",
+    "duplicado_identico": false,
+    "sha256_original": "93448caccb26a2baebe74d81693223f9ffaea64470905bf2d4e87ddb2c09cb24"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Málaga.txt",
+    "destino": "src/main/resources/Amazon/Málaga.txt",
+    "duplicado_identico": false,
+    "sha256_original": "826e6ef2c295c7ff892d611499677435f241e70f524ff190919eafd40f88206d"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/JaÃ©n.txt",
+    "destino": "src/main/resources/Amazon/JaÃ©n.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/resources/Almería.txt",
+    "destino": "src/main/resources/Amazon/Almería.txt",
+    "duplicado_identico": false,
+    "sha256_original": "e331546c8a395f539325db9b7298629d8ddc9908cceeec8581a44251f8e87a28"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/java/FiltrarPorProvincia.java",
+    "destino": "src/main/java/Amazon/FiltrarPorProvincia.java",
+    "duplicado_identico": false,
+    "sha256_original": "8b43aaa2abc619c677f0e0438a5c6c657b1b2572d2ba6d851f5e601046ca29e0"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/src/main/java/LanzadorFiltrarPorProvincia.java",
+    "destino": "src/main/java/Amazon/LanzadorFiltrarPorProvincia.java",
+    "duplicado_identico": false,
+    "sha256_original": "594dd0ebbade8d6bc3b8c0581f6eb67fdcae9868871abfa7b452e58e0e63a5b6"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenAmazon/Simulacion/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/src/main/resources/NSSs.txt",
+    "destino": "src/main/resources/SimulacionAmazon/NSSs.txt",
+    "duplicado_identico": false,
+    "sha256_original": "c3ee725e446cecc33986a0863a4a6683b4ef7e51047ef046d44de4deb1a5a4f1"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/src/main/resources/Prueba.png",
+    "destino": "src/main/resources/SimulacionAmazon/Prueba.png",
+    "duplicado_identico": false,
+    "sha256_original": "1510cd769047b5a0e5a897a8f7afcafe6e8b666d497443c82d0ec5ed7e23fb65"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/src/main/resources/datos.txt",
+    "destino": "src/main/resources/SimulacionAmazon/datos.txt",
+    "duplicado_identico": false,
+    "sha256_original": "7c44a057b4a5f14423fcbb3cb71e9b44c5dadcf97eaaf43b38f225350622d178"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/src/main/java/GeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionAmazon/GeneradorHacienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "b610ef1a330a6dd48a55d4e11c3ad48b73c815c04412b6465ec0afa2edc622d3"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenAmazon/Simulacion/src/main/java/LanzadorGeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionAmazon/LanzadorGeneradorHacienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "bbc1f913e96c131da1dc63377c8782d8b1c660055791bd946645dc9697e282f4"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/.project",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "b6b2db947abf6fb9d42d646d5852c338becd99d234341217607092212a4df4e9"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "f3b985da90cb24e2267e24aacb4bf4f9080729636a2228ae6a5d926a1eea9164"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/.classpath",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/application-20260928.log",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/application-20260928.log",
+    "duplicado_identico": false,
+    "sha256_original": "ef82ac762c16bad05516a9d038f2d8d0abd5b24d0ff7bdffccfb962d2d9f8f36"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/RepasoJava-00/repasoJava/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/resources/log4j2.xml",
+    "destino": "src/main/resources/RepasoJava/log4j2.xml",
+    "duplicado_identico": false,
+    "sha256_original": "ef190c59cc03e0659e67e1e705ecdf2554ff93c349b64562703e4e9db9b07fef"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Repositorio/RepositorioEventos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Repositorio/RepositorioEventos.java",
+    "duplicado_identico": false,
+    "sha256_original": "c2a0cb3095c5e2b97f32b53fd53f06a02b88c4b327a78a1d03253db10458694b"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Controlador/GestionaaEventos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Controlador/GestionaaEventos.java",
+    "duplicado_identico": false,
+    "sha256_original": "4f2786ecaac4819ade9360a9784d0cf18543ca4ad9a946729cc86b8c646c1fcd"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Estado.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Estado.java",
+    "duplicado_identico": false,
+    "sha256_original": "7c06e88136989e3897bcd5ea0ba99c152006c21926fd1a586a074b4f32b5d2d8"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Concierto.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Concierto.java",
+    "duplicado_identico": false,
+    "sha256_original": "b24047eda87b20c6196691a5ede98fbbe0b62083e64909e78ee4d0070f9bb22c"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/eventosDesportivos.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/eventosDesportivos.java",
+    "duplicado_identico": false,
+    "sha256_original": "6a359b59efb5768355b64cc236ac5fd7b11b38dfd0b32fc70da6946295196d1b"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Modelo/Evento.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Modelo/Evento.java",
+    "duplicado_identico": false,
+    "sha256_original": "4f42b7263ac1bede115bb75b7b71eca2285d5ed1ca4d383f7115cf0b25f1f480"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoExcepciones/Exception/CrafterException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoExcepciones/Exception/CrafterException.java",
+    "duplicado_identico": false,
+    "sha256_original": "4ee1bc30dc26b9dceb090eb6c6ded6101b48b68a6ca4278ffa88810cedfd2079"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Repositorio/RepoSinLuz.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Repositorio/RepoSinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "4affb3cd221cb3b781afe8e6a9418284dde64ec80e1675266ce1a7d4feb6a1f3"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Controlador/GestionaEldenRing.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Controlador/GestionaEldenRing.java",
+    "duplicado_identico": false,
+    "sha256_original": "ad8e73a904a11f2d76bd29650c099e2488e9fac1d056e7f53da7396d05f38e68"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Modelo/Encuentro.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Modelo/Encuentro.java",
+    "duplicado_identico": false,
+    "sha256_original": "624e0cc27bb099c7c761dfa091dfc2fb22b9439aef4b6dff40a424e474a3d377"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Modelo/SinLuz.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Modelo/SinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "1cbb2d2aa8be2e643c53ff7b40c6ff43f164a5bd290c932f4fa96b75a1864778"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoEldenRing/Exception/EldenException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoEldenRing/Exception/EldenException.java",
+    "duplicado_identico": false,
+    "sha256_original": "e2e9b3f6cc12eaa8fbf26396a524765805dfe38293aab3bb795df46d0d6d34d2"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Excepciones/ConversacionException.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Excepciones/ConversacionException.java",
+    "duplicado_identico": false,
+    "sha256_original": "b2c425cf046d32dd15fe7ece663b9ddd9c729d3e8e569f67c429b973faf605bb"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Repositorio/RepositorioConversaciones.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Repositorio/RepositorioConversaciones.java",
+    "duplicado_identico": false,
+    "sha256_original": "5db570870e30444532b3bf360e8ea573ce7d9df715e49cc2c148a95fa6587298"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Controlador/GestionaPeticionesAChat.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Controlador/GestionaPeticionesAChat.java",
+    "duplicado_identico": false,
+    "sha256_original": "a93be5d7018bc1a15a9aa6eb8fe18abd392242d98ab46a669082c167064d6c2e"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/TipoAgente.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/TipoAgente.java",
+    "duplicado_identico": false,
+    "sha256_original": "7f9bc071c8f1aa84af24b3ee9d506fd37a2332ac62e9b0be40972110a26a7c38"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/Conversacion.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/Conversacion.java",
+    "duplicado_identico": false,
+    "sha256_original": "c4e5a7ffef6fac47994b11dd34737ba07ed72b5a178140586103b444adb6f293"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoChat/Modelo/ServicioConversacionesImpl.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoChat/Modelo/ServicioConversacionesImpl.java",
+    "duplicado_identico": false,
+    "sha256_original": "ff2f1d67aa2f3c97f3853d74492b9a575f967e970bfbeceab617edd3c375eea1"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Repositorio/NotificadorRepo.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Repositorio/NotificadorRepo.java",
+    "duplicado_identico": false,
+    "sha256_original": "1d424f180d146654b7b604e9822a9a19f50452996b627d2cf4dcdca009e2cf1f"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Repositorio/PedidoRepositorio.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Repositorio/PedidoRepositorio.java",
+    "duplicado_identico": false,
+    "sha256_original": "4efee0af72123b4a018315a022ecb81464fb8dfc36aa62b9f099859dfc6f0db8"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Servicio/TiendaService.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Servicio/TiendaService.java",
+    "duplicado_identico": false,
+    "sha256_original": "53a9fee12c72ddc35ced73d18ef4a1bf829a18cea570fa22e233b2ce5ec2fba2"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Controlador/GestionaTienda.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Controlador/GestionaTienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "2c8c675df29d622f473fb31f7fa2b452381049c58822fd09b323761677ed6e3e"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Cliente.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Cliente.java",
+    "duplicado_identico": false,
+    "sha256_original": "9e66adb6f8b1ff2c0746da29d3326017d09db1414dfdeca5dfbe5aceaa377703"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/EstadoPedido.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/EstadoPedido.java",
+    "duplicado_identico": false,
+    "sha256_original": "60f5c26df40e541fa04dd273261968f05db931829c84b68f9287347f89d3206a"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Pedido.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Pedido.java",
+    "duplicado_identico": false,
+    "sha256_original": "32767e9de1819fcf5e5a2e87670416bc2d0860eb95d3f20f0e2a2505c0e40d09"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Modelo/Notificador.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Modelo/Notificador.java",
+    "duplicado_identico": false,
+    "sha256_original": "1fe1588af8cebdd67c6a525359cce79e25272aea1491c20641337ca67b128a04"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/EnviadorEmail.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/EnviadorEmail.java",
+    "duplicado_identico": false,
+    "sha256_original": "5ac861ddfbcf9b56f88ca466df7b168d3a97e73cdf16ef108f5ce3a6d6a88bde"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/INotificadorRepo.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/INotificadorRepo.java",
+    "duplicado_identico": false,
+    "sha256_original": "8b142f53289793ad481094588f51869a0e9661473ed7445057a9d055889ceb8d"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/EnviadorSms.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/EnviadorSms.java",
+    "duplicado_identico": false,
+    "sha256_original": "31058ca7f05c41959804e1ae10e481bcecc367cc454d08e18b0ca16cf0d78ab6"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/NotificadorEmail.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/NotificadorEmail.java",
+    "duplicado_identico": false,
+    "sha256_original": "bd19a1d9a11054187d620a39d29f2e85c4768d33b072444582b99d46e1508b12"
+  },
+  {
+    "original": "src/main/java/RepasoJava-00/repasoJava/src/main/java/EjercicioRepasoTienda/Notificacion/NotificadorSms.java",
+    "destino": "src/main/java/RepasoJava/EjercicioRepasoTienda/Notificacion/NotificadorSms.java",
+    "duplicado_identico": false,
+    "sha256_original": "010f2ca5f0b85043b91af243ca9873f50949f3a3582ed10083c0a34a055f78b4"
+  },
+  {
+    "original": "src/main/java/elden_ring_proyecto/src/exceptions/EldenException.java",
+    "destino": "src/main/java/elden_ring_proyecto/src/exceptions/EldenException.java",
+    "duplicado_identico": false,
+    "sha256_original": "56d9a4a261ba4db34c10143b075e25a180c877572e0800beada0ebb8589334dc"
+  },
+  {
+    "original": "src/main/java/elden_ring_proyecto/src/modelo/RegistroEncuentros.java",
+    "destino": "src/main/java/elden_ring_proyecto/src/modelo/RegistroEncuentros.java",
+    "duplicado_identico": false,
+    "sha256_original": "48b9d9df00ef7b83b310e4dfd99d0eef59c73e62307718317acee53692015d5c"
+  },
+  {
+    "original": "src/main/java/elden_ring_proyecto/src/modelo/Encuentro.java",
+    "destino": "src/main/java/elden_ring_proyecto/src/modelo/Encuentro.java",
+    "duplicado_identico": false,
+    "sha256_original": "b7458df368fea0e49f07b9241cd259f44202e3714215f696823c4871968708ca"
+  },
+  {
+    "original": "src/main/java/elden_ring_proyecto/src/modelo/SinLuz.java",
+    "destino": "src/main/java/elden_ring_proyecto/src/modelo/SinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "0387492fd638787bc407effc9a91a323f5edd1d75150859184b918d8b94a6d70"
+  },
+  {
+    "original": "src/main/java/elden_ring_proyecto/src/controlador/GestionaEncuentrosSinLuz.java",
+    "destino": "src/main/java/elden_ring_proyecto/src/controlador/GestionaEncuentrosSinLuz.java",
+    "duplicado_identico": false,
+    "sha256_original": "e6b5c348a37158f835e31ffe65a7874b25924de8592188af1b83e37347367f5c"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.project",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.project.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "26b8cedfaf5434c3a0f9d2670363ae3d93cdd6ecc6bc1091210d370c9efd88a0"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/pom.xml",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/pom.xml.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "a699542067634acafae836cfeb271741c3e0eee0ef8d3f6b8dae33e1e5b97816"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.classpath",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.classpath.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "eb25f76479ed2adc9b67dc32a4ea098b35becfc4a7a8d6d80460df03a771232b"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.gitignore",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.gitignore",
+    "duplicado_identico": false,
+    "sha256_original": "517b2c5ebb94b4ec644cc7999710d327942ee37d73168930b0c6f5f4b44bf6ae"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.jdt.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.jdt.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "aa0ad5f5ab0affe5af2ace0a4ef6b20ccc1d324ba310c7a56b49b6912aa5bde7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.m2e.core.prefs",
+    "destino": "src/archivos_originales/src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/.settings/org.eclipse.m2e.core.prefs.original.txt",
+    "duplicado_identico": false,
+    "sha256_original": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/NSSs.txt",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/NSSs.txt",
+    "duplicado_identico": false,
+    "sha256_original": "c3ee725e446cecc33986a0863a4a6683b4ef7e51047ef046d44de4deb1a5a4f1"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/Prueba.png",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/Prueba.png",
+    "duplicado_identico": false,
+    "sha256_original": "1510cd769047b5a0e5a897a8f7afcafe6e8b666d497443c82d0ec5ed7e23fb65"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/resources/datos.txt",
+    "destino": "src/main/resources/SimulacionSeguridadSocial/datos.txt",
+    "duplicado_identico": false,
+    "sha256_original": "7c44a057b4a5f14423fcbb3cb71e9b44c5dadcf97eaaf43b38f225350622d178"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/java/GeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionSeguridadSocial/GeneradorHacienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "b610ef1a330a6dd48a55d4e11c3ad48b73c815c04412b6465ec0afa2edc622d3"
+  },
+  {
+    "original": "src/main/java/01-SimulacionExamenSeguridadSocial/Simulacion/src/main/java/LanzadorGeneradorHacienda.java",
+    "destino": "src/main/java/SimulacionSeguridadSocial/LanzadorGeneradorHacienda.java",
+    "duplicado_identico": false,
+    "sha256_original": "bbc1f913e96c131da1dc63377c8782d8b1c660055791bd946645dc9697e282f4"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/Boletin2runtinme/ProcesadorFichero.java",
+    "destino": "src/main/java/practicaRuntime/Boletin2runtinme/ProcesadorFichero.java",
+    "duplicado_identico": false,
+    "sha256_original": "50e5242cb2a114a7c0cb0bfb4d771c3d06aae50eb43a5b18e9536dfd69b281c2"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/Boletin2runtinme/LanzadorContadoresPalabras.java",
+    "destino": "src/main/java/practicaRuntime/Boletin2runtinme/LanzadorContadoresPalabras.java",
+    "duplicado_identico": false,
+    "sha256_original": "78ed36521081bc0dbeaeeb1db4e5a707913e17938092f5ae16a93496bdac88a3"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/ej2/Gestiona.java",
+    "destino": "src/main/java/practicaRuntime/ej2/Gestiona.java",
+    "duplicado_identico": false,
+    "sha256_original": "07cc844f7df9436941d5a0ae2d50ff6f0bdda2b7ac75c3f278deb86c2c66fab4"
+  },
+  {
+    "original": "src/main/java/practicaRuntime/ej1/Gestiona.java",
+    "destino": "src/main/java/practicaRuntime/ej1/Gestiona.java",
+    "duplicado_identico": false,
+    "sha256_original": "05ad022a7062265bb0050a375059bb444b4570884efa335e1b1310ba0a5548f8"
+  }
+]
